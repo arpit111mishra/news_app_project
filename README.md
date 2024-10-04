@@ -1,32 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>News App</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
-        h1 {
-            color: #333;
-        }
-        h2 {
-            color: #555;
-        }
-        ul {
-            list-style-type: disc;
-            margin-left: 20px;
-        }
-        p {
-            margin-bottom: 10px;
-        }
-    </style>
-</head>
-<body>
-
+       
 <h1>News App</h1>
 
 <p>A simple yet powerful news application designed to empower users to stay informed by fetching news articles based on their interests. Built with Python, this app prioritizes user security and convenience through a variety of features, including user authentication, logging, and CAPTCHA.</p>
