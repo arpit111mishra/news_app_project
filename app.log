@@ -1,0 +1,18 @@
+2024-10-05 00:20:32,625 - INFO - User reset password.
+2024-10-05 00:20:55,432 - INFO - User logged in.
+2024-10-05 00:21:02,688 - INFO - User fetched news.
+2024-10-05 00:22:06,727 - INFO - User fetched news.
+2024-10-05 00:22:32,752 - INFO - User logged in.
+2024-10-05 00:26:17,663 - INFO - New user registered.
+2024-10-05 00:26:46,678 - INFO - User logged in.
+2024-10-05 00:26:48,839 - INFO - User logged out.
+2024-10-05 00:26:51,141 - INFO - Application exited.
+2024-10-05 01:03:22,966 - INFO - User logged in.
+2024-10-05 01:03:39,186 - INFO - User fetched news.
+2024-10-05 01:03:54,921 - INFO - User fetched news.
+2024-10-05 01:04:00,095 - INFO - User logged out.
+2024-10-05 01:09:44,855 - WARNING - Failed login attempt.
+2024-10-05 01:09:50,922 - INFO - Application exited.
+2024-10-05 01:12:37,966 - INFO - User logged in.
+2024-10-05 01:13:45,343 - INFO - User logged in.
+2024-10-05 01:14:02,185 - INFO - User deleted account.
